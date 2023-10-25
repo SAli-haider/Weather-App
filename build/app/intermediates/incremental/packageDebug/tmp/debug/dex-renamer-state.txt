@@ -1,0 +1,4 @@
+#Fri Sep 22 03:29:37 PDT 2023
+base.0=C\:\\Users\\Ali\\Desktop\\weatherapp_starter_project-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
